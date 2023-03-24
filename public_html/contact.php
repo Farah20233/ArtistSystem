@@ -3,7 +3,10 @@
 session_start();
 
 include("includes/db.php");
-// fi
+//
+//
+//
+
 
 include("functions/functions.php");
 
