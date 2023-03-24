@@ -90,17 +90,11 @@ $start_from = ($page-1) * $per_page;
 //Selecting the data from table but with limit
 
 $get_countries = "select * from countries order by 1 DESC LIMIT $start_from, $per_page";
-
 $run_countries = mysqli_query($con,$get_countries);
-
 while($row_countries = mysqli_fetch_array($run_countries)) {
-
 $country_id = $row_countries['country_id'];
-
 $country_name = $row_countries['country_name'];
-
 $i++;
-
 ?>
 
 <tr>
