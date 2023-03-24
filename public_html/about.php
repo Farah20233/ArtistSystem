@@ -8,19 +8,12 @@ include("functions/functions.php");
 
 ?>
 <!DOCTYPE html>
-
 <html>
-
 <head>
-
 <title>Artiste- Art Assistant </title>
-
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
 <link href="http://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100" rel="stylesheet" >
-
 <link href="styles/bootstrap.min.css" rel="stylesheet">
-
 <link href="styles/style.css" rel="stylesheet">
 
 <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -39,11 +32,10 @@ include("functions/functions.php");
 <?php
 
 if(!isset($_SESSION['customer_email'])){
-
 echo "Welcome: Guest";
 
-
-}else{
+}
+  else{
 
 echo "Welcome : " . $_SESSION['customer_email'] . "";
 
@@ -75,17 +67,11 @@ Total Cart Price: <?php total_price(); ?>, Total Items <?php items(); ?>
 }else{
 
 $customer_email = $_SESSION['customer_email'];
-
 $select_customer = "select * from customers where customer_email='$customer_email'";
-
 $run_customer = mysqli_query($con,$select_customer);
-
 $row_customer = mysqli_fetch_array($run_customer);
-
 $customer_role = $row_customer['customer_role'];
-
 if($customer_role == "customer"){ 
-
 ?>
 
 <li>
@@ -93,13 +79,10 @@ if($customer_role == "customer"){
 <a href="shop.php"> Gallery </a>
 
 </li>
-
 <?php }elseif($customer_role == "vendor"){ ?>
-
 <li>
 
 <a href="vendor_dashboard/index.php"> Artist Dashboard </a>
-
 </li>
 
 <?php } } ?>
