@@ -1,0 +1,5 @@
+[25-May-2021 14:17:02 UTC] PHP Notice:  Undefined variable: enable_stripe in /home/k986r39oadc6/public_html/admin_area/payment_settings.php on line 257
+[25-May-2021 14:17:02 UTC] PHP Notice:  Undefined variable: enable_stripe in /home/k986r39oadc6/public_html/admin_area/payment_settings.php on line 259
+[25-May-2021 14:17:02 UTC] PHP Notice:  Undefined variable: stripe_secret_key in /home/k986r39oadc6/public_html/admin_area/payment_settings.php on line 279
+[25-May-2021 14:17:02 UTC] PHP Notice:  Undefined variable: stripe_publishable_key in /home/k986r39oadc6/public_html/admin_area/payment_settings.php on line 297
+[25-May-2021 14:17:02 UTC] PHP Notice:  Undefined variable: stripe_currency_code in /home/k986r39oadc6/public_html/admin_area/payment_settings.php on line 315

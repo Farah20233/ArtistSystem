@@ -1,0 +1,1081 @@
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/includes/db.php on line 3
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/index.php on line 11
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/index.php on line 13
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/index.php on line 333
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/index.php on line 335
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/index.php on line 359
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/index.php on line 361
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/index.php on line 420
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/index.php on line 422
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 123
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 125
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 127
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 177
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 179
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/includes/footer.php on line 156
+[22-May-2021 21:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/includes/footer.php on line 158
+[22-May-2021 21:47:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/includes/db.php on line 3
+[22-May-2021 21:47:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 21:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/customer_register.php on line 17
+[22-May-2021 21:47:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/customer_register.php on line 19
+[22-May-2021 21:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 21:47:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 21:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:47:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:47:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/includes/footer.php on line 156
+[22-May-2021 21:47:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/includes/footer.php on line 158
+[22-May-2021 21:47:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/includes/db.php on line 3
+[22-May-2021 21:47:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 21:47:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/customer_register.php on line 17
+[22-May-2021 21:47:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/customer_register.php on line 19
+[22-May-2021 21:47:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 21:47:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 21:47:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:47:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:47:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:47:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:47:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/includes/footer.php on line 156
+[22-May-2021 21:47:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/includes/footer.php on line 158
+[22-May-2021 21:51:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/includes/db.php on line 3
+[22-May-2021 21:51:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 21:51:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/customer_register.php on line 17
+[22-May-2021 21:51:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/customer_register.php on line 19
+[22-May-2021 21:51:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 21:51:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 21:51:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:51:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:51:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:51:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:51:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/includes/footer.php on line 156
+[22-May-2021 21:51:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/includes/footer.php on line 158
+[22-May-2021 21:52:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 21:52:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 21:52:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 21:52:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:52:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:52:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:52:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:52:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 123
+[22-May-2021 21:52:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 125
+[22-May-2021 21:52:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 127
+[22-May-2021 21:52:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 177
+[22-May-2021 21:52:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 179
+[22-May-2021 21:52:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 21:52:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 21:52:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 21:52:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:52:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:52:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:52:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:52:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 123
+[22-May-2021 21:52:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 125
+[22-May-2021 21:52:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 127
+[22-May-2021 21:52:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 177
+[22-May-2021 21:52:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 179
+[22-May-2021 21:52:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 21:52:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 21:52:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 21:52:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:52:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:52:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:52:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:52:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 21:52:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 21:52:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 21:52:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:52:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:52:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:52:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:52:46 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lc-WxYUAAAAAN5j2OdDsryWwGfREg5eeuZFpKMv&amp;response=&amp;remoteip=84.255.184.181): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/k986r39oadc6/public_html/online_s/customer_register.php on line 624
+[22-May-2021 21:53:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 21:53:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 21:53:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 21:53:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:53:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:53:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:53:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:53:21 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lc-WxYUAAAAAN5j2OdDsryWwGfREg5eeuZFpKMv&amp;response=&amp;remoteip=84.255.184.181): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/k986r39oadc6/public_html/online_s/customer_register.php on line 624
+[22-May-2021 21:54:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 21:54:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 21:54:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 21:54:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:54:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:54:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:54:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:54:06 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lc-WxYUAAAAAN5j2OdDsryWwGfREg5eeuZFpKMv&amp;response=&amp;remoteip=84.255.184.181): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/k986r39oadc6/public_html/online_s/customer_register.php on line 624
+[22-May-2021 21:54:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 21:54:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 21:54:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 21:54:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:54:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:54:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:54:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:54:36 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lc-WxYUAAAAAN5j2OdDsryWwGfREg5eeuZFpKMv&amp;response=&amp;remoteip=84.255.184.181): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/k986r39oadc6/public_html/online_s/customer_register.php on line 624
+[22-May-2021 21:54:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 21:54:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 21:54:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 21:54:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:54:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:54:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:54:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:54:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 21:54:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 21:54:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 21:54:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:54:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 21:54:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 21:54:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:00:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:00:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:00:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:00:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:00:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:00:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:00:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:00:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 123
+[22-May-2021 22:00:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 125
+[22-May-2021 22:00:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 127
+[22-May-2021 22:00:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 177
+[22-May-2021 22:00:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 179
+[22-May-2021 22:00:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:00:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:00:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:00:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:00:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:00:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:00:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:01:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:01:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:01:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:01:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:01:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:01:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:01:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:01:00 UTC] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lc-WxYUAAAAAN5j2OdDsryWwGfREg5eeuZFpKMv&amp;response=&amp;remoteip=84.255.184.181): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/k986r39oadc6/public_html/online_s/customer_register.php on line 624
+[22-May-2021 22:01:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:01:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:01:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:01:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:01:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:01:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:01:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 654
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 656
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 658
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 718
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 720
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 515
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 517
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 654
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 656
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 658
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 718
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 720
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 515
+[22-May-2021 22:05:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 517
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 476
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 384
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 386
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 392
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 394
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 484
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 476
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 476
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 328
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 330
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 346
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2760
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2762
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2768
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2770
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2871
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2760
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2762
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2768
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2770
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2871
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 328
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 330
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 346
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2760
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2762
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2768
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2770
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2871
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:05:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:05:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:05:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:05:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 654
+[22-May-2021 22:05:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 656
+[22-May-2021 22:05:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 658
+[22-May-2021 22:05:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 718
+[22-May-2021 22:05:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 720
+[22-May-2021 22:05:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 515
+[22-May-2021 22:05:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 517
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 797
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 799
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 830
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 832
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 838
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 840
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 797
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 799
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 830
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 832
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 838
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 840
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 797
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 799
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 830
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 832
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 838
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 840
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 797
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 799
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 797
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 799
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 830
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 832
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 838
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 840
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 797
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 799
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 830
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 832
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 838
+[22-May-2021 22:05:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 840
+[22-May-2021 22:06:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:06:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:06:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 654
+[22-May-2021 22:06:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 656
+[22-May-2021 22:06:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 658
+[22-May-2021 22:06:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 718
+[22-May-2021 22:06:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 720
+[22-May-2021 22:06:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 515
+[22-May-2021 22:06:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 517
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 476
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 384
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 386
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 392
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 394
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 484
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 476
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 476
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 328
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 330
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 346
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:06:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 328
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 330
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 346
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2760
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2762
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2768
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2770
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2871
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2760
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2762
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2768
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2770
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:06:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2871
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 328
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 330
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 346
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:06:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 328
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 330
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 346
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:06:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 328
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 330
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 346
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2760
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2762
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2768
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2770
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2871
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:06:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 797
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 799
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 830
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 832
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 838
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 840
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 797
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 799
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 797
+[22-May-2021 22:06:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 799
+[22-May-2021 22:06:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:06:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:06:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:45 UTC] PHP Notice:  Undefined variable: billing_first_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1055
+[22-May-2021 22:06:45 UTC] PHP Notice:  Undefined variable: billing_last_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1057
+[22-May-2021 22:06:45 UTC] PHP Notice:  Undefined variable: billing_address_1 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1059
+[22-May-2021 22:06:45 UTC] PHP Notice:  Undefined variable: billing_address_2 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1061
+[22-May-2021 22:06:45 UTC] PHP Notice:  Undefined variable: billing_city in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1063
+[22-May-2021 22:06:45 UTC] PHP Notice:  Undefined variable: billing_state in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1065
+[22-May-2021 22:06:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_first_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1055
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_last_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1057
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_address_1 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1059
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_address_2 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1061
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_city in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1063
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_state in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1065
+[22-May-2021 22:06:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined index: customer_email in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 9
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined index: payment_method in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 878
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined index: payment_method in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 896
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined index: payment_method in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 916
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: total_cart_price in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 969
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_first_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1055
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_last_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1057
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_address_1 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1059
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_address_2 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1061
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_city in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1063
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_state in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1065
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined index: payment_method in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1087
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined index: payment_method in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1101
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined index: payment_method in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1115
+[22-May-2021 22:06:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_first_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1055
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_last_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1057
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_address_1 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1059
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_address_2 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1061
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_city in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1063
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_state in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1065
+[22-May-2021 22:06:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_first_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1055
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_last_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1057
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_address_1 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1059
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_address_2 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1061
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_city in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1063
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_state in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1065
+[22-May-2021 22:06:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_first_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1055
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_last_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1057
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_address_1 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1059
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_address_2 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1061
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_city in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1063
+[22-May-2021 22:06:46 UTC] PHP Notice:  Undefined variable: billing_state in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1065
+[22-May-2021 22:06:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_first_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1055
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_last_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1057
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_address_1 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1059
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_address_2 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1061
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_city in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1063
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_state in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1065
+[22-May-2021 22:06:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_first_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1055
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_last_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1057
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_address_1 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1059
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_address_2 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1061
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_city in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1063
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_state in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1065
+[22-May-2021 22:06:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_first_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1055
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_last_name in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1057
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_address_1 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1059
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_address_2 in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1061
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_city in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1063
+[22-May-2021 22:06:47 UTC] PHP Notice:  Undefined variable: billing_state in /home/k986r39oadc6/public_html/online_s/checkout_tbody.php on line 1065
+[22-May-2021 22:06:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:06:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:06:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:06:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:06:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:06:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:06:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: order_id in /home/k986r39oadc6/public_html/online_s/order_received.php on line 452
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: order_total in /home/k986r39oadc6/public_html/online_s/order_received.php on line 620
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: count_vendor_orders in /home/k986r39oadc6/public_html/online_s/order_received.php on line 628
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: customer_email in /home/k986r39oadc6/public_html/online_s/order_received.php on line 786
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: customer_contact in /home/k986r39oadc6/public_html/online_s/order_received.php on line 791
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: billing_first_name in /home/k986r39oadc6/public_html/online_s/order_received.php on line 817
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: billing_last_name in /home/k986r39oadc6/public_html/online_s/order_received.php on line 817
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: billing_address_1 in /home/k986r39oadc6/public_html/online_s/order_received.php on line 818
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: billing_address_2 in /home/k986r39oadc6/public_html/online_s/order_received.php on line 819
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: billing_city in /home/k986r39oadc6/public_html/online_s/order_received.php on line 820
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: billing_state in /home/k986r39oadc6/public_html/online_s/order_received.php on line 821
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: billing_postcode in /home/k986r39oadc6/public_html/online_s/order_received.php on line 822
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: billing_country in /home/k986r39oadc6/public_html/online_s/order_received.php on line 825
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: is_shipping_address in /home/k986r39oadc6/public_html/online_s/order_received.php on line 838
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: invoice_no in /home/k986r39oadc6/public_html/online_s/order_received.php on line 882
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: order_date in /home/k986r39oadc6/public_html/online_s/order_received.php on line 884
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: payment_method in /home/k986r39oadc6/public_html/online_s/order_received.php on line 886
+[22-May-2021 22:06:51 UTC] PHP Notice:  Undefined variable: order_total in /home/k986r39oadc6/public_html/online_s/order_received.php on line 888
+[22-May-2021 22:07:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:07:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:07:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:07:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:07:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:07:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:07:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:07:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 654
+[22-May-2021 22:07:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 656
+[22-May-2021 22:07:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 658
+[22-May-2021 22:07:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 718
+[22-May-2021 22:07:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 720
+[22-May-2021 22:07:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 515
+[22-May-2021 22:07:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 517
+[22-May-2021 22:17:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:17:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:17:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:17:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:17:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:17:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:17:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:17:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 654
+[22-May-2021 22:17:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 656
+[22-May-2021 22:17:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 658
+[22-May-2021 22:17:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 718
+[22-May-2021 22:17:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 720
+[22-May-2021 22:17:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 515
+[22-May-2021 22:17:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 517
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 476
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 384
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 386
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 392
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 394
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 484
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 476
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:17:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 476
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 328
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 330
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 346
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2760
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2762
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2768
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2770
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:17:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2871
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 328
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 330
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 346
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:17:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 476
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 384
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 386
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 392
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 394
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 484
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 476
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 476
+[22-May-2021 22:19:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:19:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:19:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:19:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 123
+[22-May-2021 22:19:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 125
+[22-May-2021 22:19:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 127
+[22-May-2021 22:19:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 177
+[22-May-2021 22:19:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 179
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 797
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 799
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 830
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 832
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 838
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 840
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 797
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 799
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 830
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 832
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 838
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 840
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 797
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 799
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 830
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 832
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 838
+[22-May-2021 22:19:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 840
+[22-May-2021 22:19:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:19:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:19:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:19:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 654
+[22-May-2021 22:19:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 656
+[22-May-2021 22:19:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 658
+[22-May-2021 22:19:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 718
+[22-May-2021 22:19:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 720
+[22-May-2021 22:19:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 515
+[22-May-2021 22:19:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 517
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 476
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 384
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 386
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 392
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 394
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 484
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 476
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 352
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 354
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 428
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 430
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/results.php on line 472
+[22-May-2021 22:19:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/results.php on line 476
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 328
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 330
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 346
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2760
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2762
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2768
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2770
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2871
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2760
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2762
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2768
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2770
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2871
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 328
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 330
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 346
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2760
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2762
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2768
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2770
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2871
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2760
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2762
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2768
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2770
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2871
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 328
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 330
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 346
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2760
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2762
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2768
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2770
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2871
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2863
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2760
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2762
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2768
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2770
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2815
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2817
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/details.php on line 2859
+[22-May-2021 22:19:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/details.php on line 2871
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 797
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 799
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 830
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 832
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 838
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 840
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 797
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 799
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/cart.php on line 797
+[22-May-2021 22:19:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/cart.php on line 799
+[22-May-2021 22:19:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:19:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:19:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:19:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:19:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:19:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:19:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:19:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:19:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:31:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:31:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:31:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:31:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:31:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:31:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:31:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:31:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 123
+[22-May-2021 22:31:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 125
+[22-May-2021 22:31:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 127
+[22-May-2021 22:31:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 177
+[22-May-2021 22:31:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 179
+[22-May-2021 22:31:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[22-May-2021 22:31:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[22-May-2021 22:31:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[22-May-2021 22:31:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:31:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:31:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[22-May-2021 22:31:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[22-May-2021 22:31:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 123
+[22-May-2021 22:31:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 125
+[22-May-2021 22:31:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 127
+[22-May-2021 22:31:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 177
+[22-May-2021 22:31:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 179
+[23-May-2021 01:35:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[23-May-2021 01:35:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[23-May-2021 01:35:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[23-May-2021 01:35:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[23-May-2021 01:35:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[23-May-2021 01:35:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[23-May-2021 01:35:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[23-May-2021 01:35:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 123
+[23-May-2021 01:35:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 125
+[23-May-2021 01:35:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 127
+[23-May-2021 01:35:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 177
+[23-May-2021 01:35:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 179
+[23-May-2021 01:35:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 5
+[23-May-2021 01:35:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 77
+[23-May-2021 01:35:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 79
+[23-May-2021 01:35:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[23-May-2021 01:35:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[23-May-2021 01:35:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 48
+[23-May-2021 01:35:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 50
+[23-May-2021 01:35:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 123
+[23-May-2021 01:35:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 125
+[23-May-2021 01:35:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 127
+[23-May-2021 01:35:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 177
+[23-May-2021 01:35:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k986r39oadc6/public_html/online_s/functions/functions.php on line 179
