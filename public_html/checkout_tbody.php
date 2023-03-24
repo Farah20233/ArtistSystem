@@ -886,7 +886,9 @@ $total_cart_price = $total + $total_shipping_cost;
 </tr>
 
 
-<?php } ?>
+<?php 
+
+ ?>
 
 <?php if($enable_paypal == "yes"){ ?>
 
