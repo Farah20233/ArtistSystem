@@ -1,4 +1,4 @@
-# ArtistSystem
+# Art Assistant
 
 Artist Assistant application and the system are developed to assist artists with the 
 hassle of sharing their artwork to the public and the business side of it. Sharing and selling 
