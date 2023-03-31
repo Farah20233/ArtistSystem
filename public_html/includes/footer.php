@@ -43,7 +43,7 @@ echo "<a href='$store_back_url" . "checkout.php' >My Account</a>";
 
 }
 else{
-
+//get account details
 echo "<a href='$store_back_url" . "customer/my_account.php?my_orders'>My Account</a>";
 
 }
